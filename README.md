@@ -2,4 +2,4 @@
 
 CCNA complete course with Labs and FlashCards.
 
-Day-1 : Introduction
+Day-1 : Introduction to Computer Network.
